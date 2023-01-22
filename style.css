@@ -1,0 +1,220 @@
+.frame-1, .frame-1 * { box-sizing: border-box; }.frame-1 {
+      background: #ffffff;
+      width: 1920px; height: 3240px;
+      position: relative;
+      overflow: hidden;
+    }
+ .rectangle-1 {
+      background: #ffffff;
+      width: 1920px; height: 1080px;
+      position: absolute; left: 0px;top: 0px;
+    }
+ .rectangle-2 {
+      background: #ffc7c7;
+      width: 1920px; height: 1080px;
+      position: absolute; left: 0px;top: 1080px;
+    }
+ .rectangle-8 {
+      background: #ffc7c7;
+      width: 1920px; height: 1080px;
+      position: absolute; left: 0px;top: 2160px;
+    }
+ .rectangle-12 {
+      background: #ffc7c7;
+      width: 1920px; height: 1080px;
+      position: absolute; left: 0px;top: 2160px;
+    }
+ .rectangle-3 {
+      background: #000000;
+      width: 1920px; height: 2px;
+      position: absolute; left: 0px;top: 104px;
+    }
+ .rectangle-5 {
+      background: #ffffff;
+      width: 1920px; height: 104px;
+      position: absolute; left: 0px;top: 0px;
+    }
+ .rectangle-4 {
+      background: #94d2ff;
+      border-radius: 10px;
+      width: 132px; height: 38px;
+      position: absolute; left: 845px;top: 41px;
+    }
+ .durga-puja {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Poppins', sans-serif;
+      position: absolute; left: 856px;top: 45px;
+    }
+ .polygon-1 {
+      background: rgba(0, 0, 0, 0.60);
+      width: 13px; height: 10px;
+      position: absolute; left: 990px;top: 73px;
+    transform-origin: 0 0;
+    transform: rotate(-180deg) scale(1, 1);
+    }
+ .home {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Poppins', sans-serif;
+      position: absolute; left: 673px;top: 37px;
+    }
+ .puja-donations {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Poppins', sans-serif;
+      position: absolute; left: 1097px;top: 37px;
+    }
+ .about {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Poppins', sans-serif;
+      position: absolute; left: 762px;top: 37px;
+    }
+ .gallery {
+      color: #000000;
+      text-align: center;
+      font: 400 20px 'Poppins', sans-serif;
+      position: absolute; left: 1002px;top: 37px;
+    }
+ .whatsapp-image-2023-01-19-at-18-33-1 {
+      width: 1920px; height: 976px;
+      position: absolute; left: 0px;top: 104px;
+    }
+ .utsab {
+      color: #ffffff;
+      text-align: center;
+      font: 400 132px 'Pacifico', sans-serif;
+      position: absolute; left: 694px;top: 384px;
+      width: 580px; height: 132px;
+    }
+ .indian-bengali-foundation-of-zuid-holland {
+      color: #ffffff;
+      text-align: center;
+      font: 400 0px 'undefined', sans-serif;
+      position: absolute; left: 481px;top: 369px;
+      width: 1017px; height: 29px;
+    }
+.indian-bengali-foundation-of-zuid-holland-span {
+      color: #ffffff;
+      font: 400 132px 'Pacifico', sans-serif;
+    }
+.indian-bengali-foundation-of-zuid-holland-span2 {
+      color: #ffffff;
+      font: 600 48px 'Poppins', sans-serif;
+    }
+ .rectangle-7 {
+      background: rgba(202, 255, 89, 0.90);
+      border-radius: 8px;
+      width: 394px; height: 93px;
+      position: absolute; left: 787px;top: 646px;
+      filter: blur(4.5px);
+    }
+ .durga-puja-2023 {
+      color: #000000;
+      text-align: center;
+      font: 600 42px 'Poppins', sans-serif;
+      position: absolute; left: 804px;top: 661px;
+    }
+ .rectangle-10 {
+      background: rgba(107, 202, 255, 0.90);
+      border-radius: 8px;
+      width: 443px; height: 93px;
+      position: absolute; left: 590px;top: 1699px;
+      filter: blur(4.5px);
+    }
+ .book-your-tickets {
+      color: #000000;
+      text-align: center;
+      font: 500 42px 'Poppins', sans-serif;
+      position: absolute; left: 627px;top: 1714px;
+    }
+ .rectangle-11 {
+      background: rgba(206, 255, 217, 0.90);
+      border-radius: 8px;
+      width: 396px; height: 93px;
+      position: absolute; left: 77px;top: 2638px;
+      filter: blur(4.5px);
+    }
+ .learn-more {
+      color: #000000;
+      text-align: center;
+      font: 500 42px 'Poppins', sans-serif;
+      position: absolute; left: 158px;top: 2653px;
+    }
+ .utsab-nl {
+      color: #000000;
+      text-align: center;
+      font: 200 32px 'Poppins', sans-serif;
+      position: absolute; left: 6px;top: 58px;
+      filter: blur(1px);
+    }
+ .our-upcoming-events {
+      color: #000000;
+      text-align: center;
+      font: 400 48px 'Varela Round', sans-serif;
+      position: absolute; left: 710px;top: 1111px;
+    }
+ .rectangle-9 {
+      background: #ff76c8;
+      border-radius: 20px;
+      width: 396px; height: 3px;
+      position: absolute; left: 762px;top: 1184px;
+      filter: blur(2px);
+    }
+ .get-ready-for-our-next-event--durga-puja {
+      color: rgba(73, 70, 70, 0.80);
+      text-align: center;
+      font: 400 32px 'Varela Round', sans-serif;
+      position: absolute; left: 646px;top: 1209px;
+    }
+ .image-1 {
+      border-radius: 15px;
+  border: solid #dd8bda; 
+  border-width: 5px;
+      width: 451px; height: 562px;
+      position: absolute; left: 92px;top: 1273px;
+    }
+ .on-saturday--the-28th-of-january--utsab-will-celebrate-durga-puja-at-the--unknown-location--in--unknown--from-9-in-the-morning-to-10pm--we-have-organized-a-delicious-feast-for-you--and-after-that-there-will-be-activities-for-children-including-a-sit---draw-competition- {
+      color: #000000;
+      text-align: left;
+      font: 400 36px 'Poppins', sans-serif;
+      position: absolute; left: 590px;top: 1395px;
+      width: 1067px; height: 241px;
+    }
+ .durga-puja2 {
+      color: #000000;
+      text-align: left;
+      font: 400 48px 'Varela Round', sans-serif;
+      position: absolute; left: 590px;top: 1323px;
+    }
+ .we-are-utsab {
+      color: #000000;
+      text-align: left;
+      font: 400 64px 'Varela Round', sans-serif;
+      position: absolute; left: 77px;top: 2218px;
+    }
+ .the-non-profit-bengali-cultural-organization-utsab-thrives-on-preserving-and-upholding-the-deep-seated-customs-and-cultural-legacy-of-bengali-s--this-group--which-was-founded-in-2023--will-work-to-provide-successful-events-that-build-a-strong-and-vibrant-bengali-community-in-the-land-of-the-dutch--distant-from-the-homeland- {
+      color: #000000;
+      text-align: left;
+      font: 400 40px 'Varela Round', sans-serif;
+      position: absolute; left: 77px;top: 2324px;
+      width: 1199px; height: 314px;
+    }
+ .rectangle-13 {
+      background: #ac7e7e;
+      width: 1920px; height: 294px;
+      position: absolute; left: 0px;top: 2946px;
+    }
+ .toppng-1 {
+      width: 120px; height: 99px;
+      position: absolute; left: 900px;top: 2969px;
+    }
+ .pngwing-1 {
+      width: 119px; height: 112px;
+      position: absolute; left: 1719px;top: 2956px;
+    }
+ .email-transparent-icon-15-1 {
+      width: 144px; height: 144px;
+      position: absolute; left: 69px;top: 2955px;
+    }
